@@ -1,0 +1,5 @@
+portfolio_id,security_id,position_date,quantity,book_value,currency
+P101,S101,2026-10-28,200,9000,USD
+P101,S102,2026-10-28,50,4900,USD
+P102,S101,2026-10-28,100,4500,USD
+P102,S103,2026-10-28,20,600,USD

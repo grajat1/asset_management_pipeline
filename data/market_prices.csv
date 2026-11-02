@@ -1,0 +1,3 @@
+security_id,price_date,price,price_currency,price_source
+S101,2026-10-29,50,USD,SYNTHETIC_SOURCE
+S102,2026-10-29,102,USD,SYNTHETIC_SOURCE

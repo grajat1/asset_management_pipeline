@@ -1,0 +1,4 @@
+transaction_id,portfolio_id,security_id,trade_date,quantity,price,currency,record_version,supersedes_version,correction_reason
+T1001,P101,S101,2026-10-29,100,50,USD,1,,
+T1002,P101,S102,2026-10-29,10,102,USD,1,,
+T1003,P102,S103,2026-10-29,20,30,USD,1,,
